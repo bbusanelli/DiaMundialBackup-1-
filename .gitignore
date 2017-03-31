@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+
+<style type="text/css">
+        div[style*="margin: 16px 0"] {
+          margin: 0 !important;
+        }
+        echo "# DiaMundialBackup-1-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bbusanelli/DiaMundialBackup-1-.git
+git push -u origin master
+        @media screen and (max-width: 499px) {
+          .inner {
+            padding-left: 24px !important;
+            padding-right: 24px !important;
+          }
+          .esquerda{
+           	float: left;
+          }	
+          .direita{
+          		float: right;
+          	}
+          .inner {
+            padding-top: 24px !important;
+          }
+          .two-col .buffered {
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+          }
+          .two-col .column,
+          .two-col img {
+            max-width: 100% !important;
+          }
+          .two-col img {
+            margin: 0 auto !important;
+          }
+          .two-col .right .buffered {
+            padding-bottom: 10px !important;
+          }
+          .h1,
+          .h2 {
+            font-size: 19px !important;
+            line-height: 1.24em !important;
+          }
+        }
+        @media screen and (min-width: 500px) and (max-width: 620px) {
+          .two-col .column {
+            max-width: 50% !important;
+          }
+          .two-col .contents {
+            font-size: 13px !important;
+            line-height: 1.4em !important;
+          }
+        }
+        @media screen and (max-width: 620px) {
+          .section-masthead .inner {
+            padding: 20px !important;
+          }
+          .section-masthead img {
+            max-width: 60% !important;
+          }
+          .hide {
+            display: none !important;
+          }
+        }
+        @media screen and (min-width: 5px) {
+          .buttonwrapper a {
+            display: block !important;
+          }
+        }
+        a {
+          color: inherit;
+        }
+        a.link-hover {
+          color: #666666;
+          text-decoration: underline;
+        }
+        a.link-hover:hover {
+          text-decoration: none !important;
+          color: #96bd4c !important;
+        }
+        .section-footer a:hover {
+          text-decoration: underline !important;
+        }
+        a[x-apple-data-detectors=true] {
+          text-decoration: none !important;
+          cursor: default;
+          color: inherit !important;
+        }
+        .preheader {display: none;}
+</style>
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
+<!--[if mso]>
+    <style type="text/css">
+        table {border-collapse: collapse !important;}
+        table, div {font-family: Arial, sans-serif !important;}
+        .button {padding: 4px 6px 4px 6px !important;}
+    </style>
+    <![endif]-->
+</head>
+<body style="font-family:Arial,sans-serif; margin-top:0 !important; margin-bottom:0 !important; margin-right:0 !important; margin-left:0 !important; padding-top:0; padding-bottom:0; padding-right:0; padding-left:0; background-color:#eeeeee; " ><div class="preheader mktEditable" id="Preheader" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0; overflow:hidden; border-width:0; display:none !important; " ><p style="margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;"></p>
+</div>
+<table width="100%" cellpadding="0" cellspacing="0" align="center" border="0" class="wrapper" style="margin-top:0; margin-bottom:0; margin-right:auto; margin-left:auto; font-family:Arial,sans-serif; table-layout:fixed; width:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; background-color:#eeeeee; " ><tr ><td align="center" ><center ><div class="webkit" style="margin-top:0; margin-bottom:0; margin-right:auto; margin-left:auto; width:100%; max-width:600px; " ><!--[if(mso)|(IE)]>
+                    <table cellpadding="0" cellspacing="0" border="0" width="600"><tr><td>
+                    <![endif]-->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" class="contents section-masthead" style="font-size:14px; line-height:22px; text-align:left; color:#666666; " ><tr class="one-col" ><td class="inner type" style="font-family:Arial,sans-serif; padding-right:30px; padding-left:30px; padding-top:24px; padding-bottom:20px; " ><div class="mktEditable" id="logo" ><p style="margin: 0;"><a
+  href="https://www.solarwindsmsp.com/?utm_medium=email&amp;utm_source=marketo&amp;utm_campaign=BU_EM-INT_WBD_UK_T1-T2_03-28-2017" style="text-decoration: none; color: inherit;" target="_blank">
+  <img src="http://pages.logicnow.com/rs/356-UVH-403/images/solarwinds-msp-logo.png" alt="SolarWinds MSP" width="140" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; display: block; margin-top: 0; margin-bottom: 0; max-width: 70%;" class="direita" />
+  <img src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t1.0-9/17626484_10206695487665315_153868931704329183_n.jpg?oh=27e1101be4f03f24b800c4c79d6a3403&oe=595A683D" width="140" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; display: block; margin-top: 0; margin-bottom: 0; max-width: 70%;" class="esquerda" 
+  /></a></p></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:2px;line-height:2px;">&nbsp;</td>
+</tr>
+<tr ><td bgcolor="#FFFFFF" ><!-- Main -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="section-main contents" style="font-size:14px; line-height:22px; text-align:left; background-color:#ffffff; color:#666666; " ><tr class="one-col" ><td class="image inner type" style="font-family:Arial,sans-serif; font-size:14px; color:#666666; padding-top:30px; padding-right:30px; padding-left:30px; padding-bottom:0; " ><div class="mktEditable" id="hero-image" ><p style="margin: 0;"><a href="http://pages.logicnow.com/world-backup-day-2017?utm_medium=email&amp;utm_source=marketo&amp;utm_campaign=BU_EM-INT_WBD_UK_T1-T2_03-28-2017" style="color: #96bd4c; text-decoration: underline;" target="_blank"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/SW_MSP_WBD2017_EmailHeader_540x300.jpg" alt="SW_MSP_WBD2017_EmailHeader_540x300.jpg" height="300" width="540" /></a></p></div>
+</td>
+</tr>
+<tr class="one-col" ><td class="inner type" style="font-family:Arial,sans-serif; padding-top:30px; padding-right:30px; padding-left:30px; padding-bottom:0; " ><div class="mktEditable" id="main-content" ><p class="h1" style="font-size: 24px; line-height: 30px; color: #444444; font-weight: 400; margin: 0 0 18px 0;"><b>Lorem ipsum dolor </b></p>
+<p style="margin: 0 0 8px 0;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p style="margin: 0 0 8px 0;">And to help you celebrate in style (and maybe pick up a few new clients), we put together a library of backup content. Visit the page to get free resources on:</p>
+<ul>
+<li>Taking your backup line of business from good to great</li>
+<li>Selling more backup services with low-pressure sales tactics</li>
+<li>Spotting and preventing malware infection and, more importantly, how backup plays its part in protecting against cyber attacks</li>
+</ul>
+<p style="margin: 0 0 8px 0;">Celebrate World Backup Day by <strong><a href="http://pages.logicnow.com/world-backup-day-2017?utm_medium=email&amp;utm_source=marketo&amp;utm_campaign=BU_EM-INT_WBD_UK_T1-T2_03-28-2017" target="_blank" style="color: #96bd4c; text-decoration: none;">downloading the resources</a></strong>&nbsp;today.</p>
+<p style="margin: 0 0 8px 0;"><br /></p>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td align="center">
+<table class="buttonwrapper" border="0" cellpadding="0" cellspacing="0" style="border-radius: 4px; -webkit-border-radius: 4px; font-size: 14px; font-weight: bold; line-height: 16px; text-align: center; background-color: #96bd4c;">
+<tbody>
+<tr>
+<td class="button type" style="font-family: Arial,sans-serif;"><a href="http://pages.logicnow.com/world-backup-day-2017?utm_medium=email&amp;utm_source=marketo&amp;utm_campaign=BU_EM-INT_WBD_UK_T1-T2_03-28-2017" style="color: #ffffff; display: inline-block; text-decoration: none; letter-spacing: 0.15em; font-weight: 200; border-width: 14px 22px 14px 22px; border-color: #96bd4c; border-style: solid;" target="_blank">GET THE RESOURCES</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-bottom-width:2px;border-bottom-style:solid;border-bottom-color:#f0f1f3;">
+<tr>
+<td style="font-size:40px;line-height:40px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:20px;line-height:20px;">&nbsp;</td>
+</tr>
+<tr ><td bgcolor="#FFFFFF" ><table width="100%" cellpadding="0" cellspacing="0" border="0" class="section-base contents" style="font-size:14px; line-height:22px; text-align:left; color:#666666; " ><tr class="one-col" ><td class="inner type" align="center" style="font-family:Arial,sans-serif; padding-top:30px; padding-bottom:30px; padding-right:30px; padding-left:30px; " ><div class="mktEditable" id="last-message" ><p style="margin: 0;">Tel 0800 761 2812 | <span style="color: #96bd4c;"><a href="mailto:contato@addee.com.br" target="_blank" id="" style="color: #96bd4c;">contato@addee.com.br</a></span> | <span style="color: #96bd4c;"><a href="https://www.solarwindsmsp.com/pt-br" target="_blank" style="color: #96bd4c;">www.solarwindsmsp.com</a></span></p></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr ><td ><table width="100%" cellpadding="0" cellspacing="0" border="0" class="section-footer" ><tr class="one-col" ><td class="inner" style="padding-top:32px; padding-bottom:26px; padding-right:15px; padding-left:15px; " ><table cellpadding="0" cellspacing="0" border="0" width="100%" class="contents" style="font-size:12px; line-height:16px; color:#606060; text-align:center; " ><tr ><td class="type" style="padding-bottom:10px; font-family:Arial,sans-serif; " ><table align="center" cellpadding="0" cellspacing="0" border="0" class="social" style="font-size:8px; line-height:10px; margin-top:0; margin-bottom:0; margin-right:auto; margin-left:auto; " ><tr ><td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-twitter" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/sw-twitter" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-twitter.png" title="Twitter" alt="Twitter" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+<td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-linkedin" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/sw-linkedin" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-linkedin.png" title="LinkedIn" alt="LinkedIn" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+<td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-facebook" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/sw-facebook" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-facebook.png" title="Facebook" alt="Facebook" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+<td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-youtube" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/sw-youtube" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-youtube.png" title="YouTube" alt="YouTube" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+<td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-googleplus" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/sw-googleplus" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-googleplus.png" title="Google+" alt="Google+" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+<td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-blog" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/blog" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-blog.png" title="Blog" alt="Blog" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+<td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-instagram" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/sw-instagram" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-instagram.png" title="Instagram" alt="Instagram" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+<td width="30" align="center" class=" type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="social-rss" ><p style="margin: 0 0 4px 0;"><a href="https://www.solarwindsmsp.com/blog/feed" style="text-decoration: none; color: #606060;"><img src="http://pages.logicnow.com/rs/356-UVH-403/images/social-rss.png" title="RSS" alt="RSS" width="30" border="0" style="border-width: 0; height: auto; -ms-interpolation-mode: bicubic; width: 100%; max-width: 30px; margin: 0 auto 0 auto;" /></a></p></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr ><td class="type" style="font-family:Arial,sans-serif; " ><div class="mktEditable" id="footer" ><p style="color: #a1a1a1; margin: 0 0 4px 0;">ADDEE SolarWinds MSP: Rua José da Costa,421. Jardim Pau Preto, Indaiatuba - São Paulo, Brasil</p>
+<p style="color: #a1a1a1; margin: 0 0 4px 0;"><b><a href="{{system.forwardToFriendLink}}" style="text-decoration: none; color: #a1a1a1;">Envie a um amigo</a> &middot; <a href="{{system.unsubscribeLink}}" style="text-decoration: none; color: #a1a1a1;">Desinscrever</a></b></p></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if(mso)|(IE)]>
+                    </td></tr></table>
+                    <![endif]--></div>
+</center>
+</td>
+</tr>
+</table>
+</body>
+</html>
